@@ -1,0 +1,19 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+.env
+.env.*
+*.jks
+*.keystore
+key.properties
+__pycache__/
+*.pyc
+# Separate experimental hardware project
+hardware/
+# Historical generated distributions; keep the current installable APK only
+releases/*
+!releases/lure-toolbox-1.1.6-debug.apk
