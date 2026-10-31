@@ -2,7 +2,7 @@
 
 一个面向路亚钓鱼的安卓工具合集，目前提供逗钓频率提醒器。原生 Kotlin / Jetpack Compose 开发，支持 Android 8.0 及以上，无账号、网络、广告或分析 SDK。
 
-[下载 Android 1.1.6 调试安装包](https://github.com/KamiOrz/lure-toolbox/raw/refs/heads/main/releases/lure-toolbox-1.1.6-debug.apk) · [验证记录](VALIDATION.md) · [MIT 许可证](LICENSE)
+[下载 Android 1.1.6 调试安装包](https://github.com/KamiOrz/lure-toolbox/releases/download/v1.1.6/lure-toolbox-1.1.6-debug.apk) · [验证记录](VALIDATION.md) · [MIT 许可证](LICENSE)
 
 <p>
   <img src="docs/screenshots/home-v1.1.png" alt="工具首页" width="240" />
